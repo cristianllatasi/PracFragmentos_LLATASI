@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PracFragmentos Llatasi</string>
+    <string name="str_parrafo">Visita el Perú a través de nuestro paquetes turísticos.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
